@@ -1,0 +1,10 @@
+pwd      Print working directory
+ls -la   List files
+cd       Change directory
+mkdir    Create directory
+cp       Copy file
+mv       Move file
+rm       Remove file
+gcc      Compile C program
+make     Run Makefile
+uname -m Show ARM architecture

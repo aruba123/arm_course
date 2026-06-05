@@ -1,0 +1,23 @@
+git add .
+git commit -m "Initial ARM course setup"
+
+git config --global user.name "Steven Ugbarugba"
+git config --global user.email "chrisugba@yahoo.com"
+git commit -m "Initial ARM course setup"
+arm_course
+git branch -M main
+
+git branch -M main
+git remote add origin https://github.com/chrisugba@yahoo.com/arm_course.git
+git push -u origin main
+
+cd ~/arm_course
+git status
+git add .
+git commit -m "Updated module work"
+git push
+exit
+
+
+exiot
+exit
