@@ -1,0 +1,11 @@
+
+This is my first vim practice file
+ARM linux Commands 
+pwd 
+ls  -la
+gcc  --version 
+uname  -m
+Esc
+:wq
+cat vim_practice.txt
+

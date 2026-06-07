@@ -1,0 +1,12 @@
+
+i
+my first vim practice file
+
+ARM linux commands 
+pwd
+ls -la
+cd
+gcc
+make
+uname -m
+
